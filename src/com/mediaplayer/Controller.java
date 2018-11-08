@@ -1,4 +1,4 @@
-package sample;
+package com.mediaplayer;
 
 public class Controller {
 }
